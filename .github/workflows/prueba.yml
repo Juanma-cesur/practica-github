@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Comparar secret y variable local
-        shell: push
+        shell: powershell
         env:
           DEV_TOKEN: ${{ secrets.DEV_TOKEN }}
         run: |
