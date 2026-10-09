@@ -17,5 +17,5 @@ jobs:
             Write-Host "DEV_TOKEN y LOCAL_DEV_TOKEN si coinciden"
           }
           else {
-            Write-Host "DEV_TOKEN y LOCAL_DEV_TOKEN no coinciden"
+            Write-Host "DEV_TOKEN y LOCAL_DEV_TOKEN NO coinciden"
           }
